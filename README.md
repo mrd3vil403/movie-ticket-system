@@ -8,7 +8,7 @@ This Project based on the manage movie ticket and all together work in movie tic
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 ## Deployement
 
-Install my-project with npm
+Install my-project in windows
 
 ```bash
   Deploye the movie.exe file on the windows system.
